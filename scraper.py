@@ -2,4 +2,4 @@ from selenium import webdriver
 
 
 driver = webdriver.Chrome()
-driver.get("https://tiptip.co/")
+driver.get("https://bilingualmanga.net/")
